@@ -22,11 +22,11 @@ project Folder/
 
 └── src/
 
-     └── main/
+          └── main/
 
-          └── java/
+                └── java/
           
-                └── HelloWorld.java
+                     └── HelloWorld.java
 
 ---
 
