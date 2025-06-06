@@ -88,7 +88,8 @@ Created a local project with the following files:
   `SUCCESS`
 
 ### 7. Took a screenshot.
-
+ ![Build Success](Screenshot 2025-06-06 190609.png)
+ 
 ### Outcome
 - Successfully integrated Git, Jenkins, Java, and Maven
 
