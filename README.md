@@ -87,7 +87,7 @@ Created a local project with the following files:
 - Build succeeded with message:
   `SUCCESS`
 
-### Took a screenshot.
+### 7. Took a screenshot.
 
 ### Outcome
 - Successfully integrated Git, Jenkins, Java, and Maven
