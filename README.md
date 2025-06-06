@@ -11,7 +11,6 @@ To run a simple Java application using Maven in Jenkins — a foundational CI/CD
 - **Java JDK 8**
 - **Apache Maven 3.8.6**
 - **Git & GitHub**
-- **Windows 11 OS**
 
 ---
 
