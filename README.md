@@ -20,13 +20,13 @@ In roject folder:
 
         ├── pom.xml
 
-             └── src/
+        └── src/
 
-                 └── main/
+             └── main/
 
-                       └── java/
+                  └── java/
            
-                             └── HelloWorld.java
+                        └── HelloWorld.java
 
 ---
 
