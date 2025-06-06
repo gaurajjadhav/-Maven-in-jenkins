@@ -18,15 +18,15 @@ To run a simple Java application using Maven in Jenkins — a foundational CI/CD
 
 project Folder/
 
-  ├── pom.xml
+        ├── pom.xml
 
-  └── src/
+             └── src/
 
-          └── main/
+                 └── main/
 
-                └── java/
-          
-                     └── HelloWorld.java
+                       └── java/
+           
+                             └── HelloWorld.java
 
 ---
 
