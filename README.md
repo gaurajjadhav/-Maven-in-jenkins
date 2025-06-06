@@ -5,7 +5,7 @@ To run a simple Java application using Maven in Jenkins — a foundational CI/CD
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Jenkins** (Dockerized)
 - **Java JDK 8**
